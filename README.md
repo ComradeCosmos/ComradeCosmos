@@ -9,7 +9,7 @@
 <!-- Stats Row -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ComradeCosmos&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeCosmos&theme=dark&hide_border=true&layout=compact" />
+  
 </div>
 
 
