@@ -3,6 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ComradeCosmos5&label=Profile%20views&color=6a329f&style=flat)](https://github.com/ComradeCosmos)
 [![GitHub Followers](https://img.shields.io/github/followers/ComradeCosmos?logo=github&style=flat&color=6a329f)](https://github.com/ComradeCosmos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6a329f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyey-mendpara-66018531b/)
+[![Discord](https://img.shields.io/badge/Discord-6a329f?style=flat&logo=linkedin&logoColor=white)]()
 
 ## 📊 GitHub Stats
 
