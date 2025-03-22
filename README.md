@@ -9,8 +9,8 @@
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="225em" src="https://github-readme-stats.vercel.app/api?username=ComradeCosmos&show_icons=true&theme=dark&hide_border=true" />
-  
+  <img height="225em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ComradeCosmos&include_orgs=true&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ComradeCosmos&include_orgs=true&theme=dark&hide_border=true&layout=compact" />  
 </div>
 
 ## 📈 Activity Graph
