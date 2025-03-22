@@ -1,7 +1,7 @@
 # Hi there, I'm Dhyey! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sohamdeo05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ComradeCosmos)
-[![GitHub Followers](https://img.shields.io/github/followers/sohamdeo05?logo=github&style=flat&color=blue)](https://github.com/ComradeCosmos)
+[![Profile Views](https://komarev.com/ghpvc/?username=ComradeCosmos5&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ComradeCosmos)
+[![GitHub Followers](https://img.shields.io/github/followers/ComradeCosmos?logo=github&style=flat&color=blue)](https://github.com/ComradeCosmos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyey-mendpara-66018531b/)
 
 ## 📊 GitHub Stats
