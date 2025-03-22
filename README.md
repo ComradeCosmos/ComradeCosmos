@@ -12,11 +12,6 @@
   
 </div>
 
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ## 📈 Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ComradeCosmos&theme=github-compact)](https://github.com/ComradeCosmos)
@@ -24,5 +19,4 @@
 
 ## 📫 Let's Connect!
 
-- 🔭 I’m currently working on
-  absolutely nothing
+- 🔭 I’m currently learning more about Python
