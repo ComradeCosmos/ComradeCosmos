@@ -1,24 +1,18 @@
-# Hi there, I'm Dhyey! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ComradeCosmos5&label=Profile%20views&color=6a329f&style=flat)](https://github.com/ComradeCosmos)
-[![GitHub Followers](https://img.shields.io/github/followers/ComradeCosmos?logo=github&style=flat&color=6a329f)](https://github.com/ComradeCosmos)
-[![Discord](https://img.shields.io/badge/Discord-6a329f?style=flat&logo=discord&logoColor=white)](https://www.discord.com/users/cosmos4224)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a329f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyeymendpara/)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.discord.com/users/cosmos4224) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhyeymendpara/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Zealousideal_Ant9887/) 
 
-## 📊 GitHub Stats
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ComradeCosmos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ComradeCosmos&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeCosmos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Stats Row -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ComradeCosmos&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeCosmos&theme=dark&hide_border=true&layout=compact" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ComradeCosmos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 📈 Activity Graph
+---
+[![](https://visitcount.itsvg.in/api?id=ComradeCosmos&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ComradeCosmos&theme=github-compact)](https://github.com/ComradeCosmos)
-
-
-## 📫 Let's Connect!
-
-- 🔭 I’m currently learning more about Python
-- 😴 I'm currently doing nothing at all
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
