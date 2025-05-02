@@ -1,7 +1,7 @@
 # Hello, I am Dhyey!👋 
 
 ## 💫 About Me:
-🔭  I’m currently working on an F1 Simulator<br><br>🌱 I’m currently doing absolutely nothing<br>
+🔭  I’m currently working on an F1 Simulator<br><br>🌱 I’m currently doing absolutely nothing at all<br>
 
 
 ## 🌐 Socials:
