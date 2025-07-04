@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an F1 Simulator and a weekly homework Application<br><br>🌱 I’m currently learning Frontend along with DSA
+🔭 I’m currently working on an F1 Simulator and a weekly homework Application<br><br>🌱 I’m currently learning New Things
 
 
 
