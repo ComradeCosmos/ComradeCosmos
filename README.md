@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an F1 Simulator and a weekly homework Application<br><br>🌱 I’m currently learning new things
+🔭 I’m currently working on Tryhackme and Cybersecuirty Projects<br><br>🌱 I’m currently learning new things
 
 
 
@@ -13,16 +13,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ComradeCosmos&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeCosmos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ComradeCosmos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=ComradeCosmos&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## My Participation/Contributions
 ![shellnova-badge](https://github.com/user-attachments/assets/811d243e-2e46-4e7b-8744-d2e8593c584b)
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/dhyeymendpara72.png" alt="Your Image Badge" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
