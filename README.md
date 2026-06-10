@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently on different Cybersecurity Projects<br>🌱 I’m currently Learning Bug Bounties and participating in different CTFs
+🔭 I’m currently doing different Cybersecurity Projects<br>🌱 I’m currently Learning Bug Bounties and participating in different CTFs
 
 
 ## 🌐 Socials:
